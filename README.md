@@ -5,4 +5,4 @@ Sergij Butenko
 - commit #3.1
 - commit #4. Text
 - changes
--  
+-  lessons 3
