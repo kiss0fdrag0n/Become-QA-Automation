@@ -6,3 +6,9 @@ TASK_123_Create_tests
 - app.py
 def test_it_check_loggin():
     pass
+
+def one_more_test():
+    pass
+
+def sone_more_test():
+    pass
