@@ -12,3 +12,7 @@ def one_more_test():
 
 def sone_more_test():
     pass
+
+test 6.1
+
+test 7.0
